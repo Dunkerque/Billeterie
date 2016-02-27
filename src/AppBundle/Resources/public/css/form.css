@@ -1,0 +1,8 @@
+button, input, optgroup, select, textarea{
+    color: black;
+}
+
+#twitter-feed div{
+    color: red;
+    text-align: center;
+}
